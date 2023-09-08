@@ -59,3 +59,17 @@ Dictionary<string, int> wordFrequency = CountWordFrequency(input);
 
 The `CountWordFrequency` function accepts a string `input` and returns a dictionary where the keys are the words (in lowercase) and the values are their corresponding frequencies.
 
+# Palindrome Check
+
+This C# function checks whether a given string is a palindrome. A palindrome is a word, phrase, number, or sequence of characters that reads the same forward and backward, ignoring spaces, punctuation, and capitalization.
+
+## Usage
+
+```csharp
+bool isPalindrome = IsPalindrome(input);
+```
+
+The `IsPalindrome` function accepts a string `input` and returns `true` if it is a palindrome, and `false` otherwise.
+
+
+
