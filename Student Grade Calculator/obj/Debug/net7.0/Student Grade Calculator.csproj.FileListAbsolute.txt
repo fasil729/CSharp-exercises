@@ -1,0 +1,14 @@
+D:\Fasika\Fasika\projects\projects_repo\CSharp-exercises\Student Grade Calculator\bin\Debug\net7.0\Student Grade Calculator.exe
+D:\Fasika\Fasika\projects\projects_repo\CSharp-exercises\Student Grade Calculator\bin\Debug\net7.0\Student Grade Calculator.deps.json
+D:\Fasika\Fasika\projects\projects_repo\CSharp-exercises\Student Grade Calculator\bin\Debug\net7.0\Student Grade Calculator.runtimeconfig.json
+D:\Fasika\Fasika\projects\projects_repo\CSharp-exercises\Student Grade Calculator\bin\Debug\net7.0\Student Grade Calculator.dll
+D:\Fasika\Fasika\projects\projects_repo\CSharp-exercises\Student Grade Calculator\bin\Debug\net7.0\Student Grade Calculator.pdb
+D:\Fasika\Fasika\projects\projects_repo\CSharp-exercises\Student Grade Calculator\obj\Debug\net7.0\Student Grade Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fasika\Fasika\projects\projects_repo\CSharp-exercises\Student Grade Calculator\obj\Debug\net7.0\Student Grade Calculator.AssemblyInfoInputs.cache
+D:\Fasika\Fasika\projects\projects_repo\CSharp-exercises\Student Grade Calculator\obj\Debug\net7.0\Student Grade Calculator.AssemblyInfo.cs
+D:\Fasika\Fasika\projects\projects_repo\CSharp-exercises\Student Grade Calculator\obj\Debug\net7.0\Student Grade Calculator.csproj.CoreCompileInputs.cache
+D:\Fasika\Fasika\projects\projects_repo\CSharp-exercises\Student Grade Calculator\obj\Debug\net7.0\Student Grade Calculator.dll
+D:\Fasika\Fasika\projects\projects_repo\CSharp-exercises\Student Grade Calculator\obj\Debug\net7.0\refint\Student Grade Calculator.dll
+D:\Fasika\Fasika\projects\projects_repo\CSharp-exercises\Student Grade Calculator\obj\Debug\net7.0\Student Grade Calculator.pdb
+D:\Fasika\Fasika\projects\projects_repo\CSharp-exercises\Student Grade Calculator\obj\Debug\net7.0\Student Grade Calculator.genruntimeconfig.cache
+D:\Fasika\Fasika\projects\projects_repo\CSharp-exercises\Student Grade Calculator\obj\Debug\net7.0\ref\Student Grade Calculator.dll
