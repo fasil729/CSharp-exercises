@@ -44,4 +44,19 @@ Subject Grades:
 
 Average Grade: 85
 
-Thank you for using the Student Grade Calculator!
+Thank you for using the Student Grade Calculator! ```
+
+Certainly! Here's a short version of the README markdown:
+
+# Word Frequency Count
+
+This C# function takes a string as input and returns a dictionary containing the frequency of each word in the string. It treats words in a case-insensitive manner and ignores punctuation marks.
+
+## Usage
+
+```csharp
+Dictionary<string, int> wordFrequency = CountWordFrequency(input);
+```
+
+The `CountWordFrequency` function accepts a string `input` and returns a dictionary where the keys are the words (in lowercase) and the values are their corresponding frequencies.
+
