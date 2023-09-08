@@ -44,9 +44,8 @@ Subject Grades:
 
 Average Grade: 85
 
-Thank you for using the Student Grade Calculator! ```
+Thank you for using the Student Grade Calculator!
 
-Certainly! Here's a short version of the README markdown:
 
 # Word Frequency Count
 
