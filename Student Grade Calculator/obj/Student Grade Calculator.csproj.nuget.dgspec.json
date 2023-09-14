@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Fasika\\Fasika\\projects\\projects_repo\\CSharp-exercises\\Student Grade Calculator\\Student Grade Calculator.csproj": {}
+    "d:\\Fasika\\Fasika\\projects\\projects_repo\\CSharp-exercises\\Student Grade Calculator\\Student Grade Calculator.csproj": {}
   },
   "projects": {
-    "D:\\Fasika\\Fasika\\projects\\projects_repo\\CSharp-exercises\\Student Grade Calculator\\Student Grade Calculator.csproj": {
+    "d:\\Fasika\\Fasika\\projects\\projects_repo\\CSharp-exercises\\Student Grade Calculator\\Student Grade Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Fasika\\Fasika\\projects\\projects_repo\\CSharp-exercises\\Student Grade Calculator\\Student Grade Calculator.csproj",
+        "projectUniqueName": "d:\\Fasika\\Fasika\\projects\\projects_repo\\CSharp-exercises\\Student Grade Calculator\\Student Grade Calculator.csproj",
         "projectName": "Student Grade Calculator",
-        "projectPath": "D:\\Fasika\\Fasika\\projects\\projects_repo\\CSharp-exercises\\Student Grade Calculator\\Student Grade Calculator.csproj",
+        "projectPath": "d:\\Fasika\\Fasika\\projects\\projects_repo\\CSharp-exercises\\Student Grade Calculator\\Student Grade Calculator.csproj",
         "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-        "outputPath": "D:\\Fasika\\Fasika\\projects\\projects_repo\\CSharp-exercises\\Student Grade Calculator\\obj\\",
+        "outputPath": "d:\\Fasika\\Fasika\\projects\\projects_repo\\CSharp-exercises\\Student Grade Calculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config"
