@@ -1,0 +1,14 @@
+D:\Fasika\Fasika\projects\projects_repo\CSharp-exercises\simple_Project_Manager\obj\Debug\net7.0\simple_Project_Manager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fasika\Fasika\projects\projects_repo\CSharp-exercises\simple_Project_Manager\obj\Debug\net7.0\simple_Project_Manager.AssemblyInfoInputs.cache
+D:\Fasika\Fasika\projects\projects_repo\CSharp-exercises\simple_Project_Manager\obj\Debug\net7.0\simple_Project_Manager.AssemblyInfo.cs
+D:\Fasika\Fasika\projects\projects_repo\CSharp-exercises\simple_Project_Manager\obj\Debug\net7.0\simple_Project_Manager.csproj.CoreCompileInputs.cache
+D:\Fasika\Fasika\projects\projects_repo\CSharp-exercises\simple_Project_Manager\bin\Debug\net7.0\simple_Project_Manager.exe
+D:\Fasika\Fasika\projects\projects_repo\CSharp-exercises\simple_Project_Manager\bin\Debug\net7.0\simple_Project_Manager.deps.json
+D:\Fasika\Fasika\projects\projects_repo\CSharp-exercises\simple_Project_Manager\bin\Debug\net7.0\simple_Project_Manager.runtimeconfig.json
+D:\Fasika\Fasika\projects\projects_repo\CSharp-exercises\simple_Project_Manager\bin\Debug\net7.0\simple_Project_Manager.dll
+D:\Fasika\Fasika\projects\projects_repo\CSharp-exercises\simple_Project_Manager\bin\Debug\net7.0\simple_Project_Manager.pdb
+D:\Fasika\Fasika\projects\projects_repo\CSharp-exercises\simple_Project_Manager\obj\Debug\net7.0\simple_Project_Manager.dll
+D:\Fasika\Fasika\projects\projects_repo\CSharp-exercises\simple_Project_Manager\obj\Debug\net7.0\refint\simple_Project_Manager.dll
+D:\Fasika\Fasika\projects\projects_repo\CSharp-exercises\simple_Project_Manager\obj\Debug\net7.0\simple_Project_Manager.pdb
+D:\Fasika\Fasika\projects\projects_repo\CSharp-exercises\simple_Project_Manager\obj\Debug\net7.0\simple_Project_Manager.genruntimeconfig.cache
+D:\Fasika\Fasika\projects\projects_repo\CSharp-exercises\simple_Project_Manager\obj\Debug\net7.0\ref\simple_Project_Manager.dll
