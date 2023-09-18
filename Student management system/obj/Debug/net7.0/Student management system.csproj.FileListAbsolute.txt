@@ -1,0 +1,17 @@
+D:\Fasika\Fasika\projects\projects_repo\CSharp-exercises\Student management system\obj\Debug\net7.0\Student management system.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fasika\Fasika\projects\projects_repo\CSharp-exercises\Student management system\obj\Debug\net7.0\Student management system.AssemblyInfoInputs.cache
+D:\Fasika\Fasika\projects\projects_repo\CSharp-exercises\Student management system\obj\Debug\net7.0\Student management system.AssemblyInfo.cs
+D:\Fasika\Fasika\projects\projects_repo\CSharp-exercises\Student management system\obj\Debug\net7.0\Student management system.csproj.CoreCompileInputs.cache
+D:\Fasika\Fasika\projects\projects_repo\CSharp-exercises\Student management system\bin\Debug\net7.0\Student management system.exe
+D:\Fasika\Fasika\projects\projects_repo\CSharp-exercises\Student management system\bin\Debug\net7.0\Student management system.deps.json
+D:\Fasika\Fasika\projects\projects_repo\CSharp-exercises\Student management system\bin\Debug\net7.0\Student management system.runtimeconfig.json
+D:\Fasika\Fasika\projects\projects_repo\CSharp-exercises\Student management system\bin\Debug\net7.0\Student management system.dll
+D:\Fasika\Fasika\projects\projects_repo\CSharp-exercises\Student management system\bin\Debug\net7.0\Student management system.pdb
+D:\Fasika\Fasika\projects\projects_repo\CSharp-exercises\Student management system\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Fasika\Fasika\projects\projects_repo\CSharp-exercises\Student management system\obj\Debug\net7.0\Student management system.csproj.AssemblyReference.cache
+D:\Fasika\Fasika\projects\projects_repo\CSharp-exercises\Student management system\obj\Debug\net7.0\Student management system.csproj.CopyComplete
+D:\Fasika\Fasika\projects\projects_repo\CSharp-exercises\Student management system\obj\Debug\net7.0\Student management system.dll
+D:\Fasika\Fasika\projects\projects_repo\CSharp-exercises\Student management system\obj\Debug\net7.0\refint\Student management system.dll
+D:\Fasika\Fasika\projects\projects_repo\CSharp-exercises\Student management system\obj\Debug\net7.0\Student management system.pdb
+D:\Fasika\Fasika\projects\projects_repo\CSharp-exercises\Student management system\obj\Debug\net7.0\Student management system.genruntimeconfig.cache
+D:\Fasika\Fasika\projects\projects_repo\CSharp-exercises\Student management system\obj\Debug\net7.0\ref\Student management system.dll
