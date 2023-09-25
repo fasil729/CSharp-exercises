@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\Fasika\\Fasika\\projects\\projects_repo\\CSharp-exercises\\Student Grade Calculator\\Student Grade Calculator.csproj",
-      "projectName": "Student Grade Calculator",
-      "projectPath": "d:\\Fasika\\Fasika\\projects\\projects_repo\\CSharp-exercises\\Student Grade Calculator\\Student Grade Calculator.csproj",
+      "projectUniqueName": "D:\\Fasika\\Fasika\\projects\\projects_repo\\CSharp-exercises\\Blog_App\\Blog_App.csproj",
+      "projectName": "Blog_App",
+      "projectPath": "D:\\Fasika\\Fasika\\projects\\projects_repo\\CSharp-exercises\\Blog_App\\Blog_App.csproj",
       "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-      "outputPath": "d:\\Fasika\\Fasika\\projects\\projects_repo\\CSharp-exercises\\Student Grade Calculator\\obj\\",
+      "outputPath": "D:\\Fasika\\Fasika\\projects\\projects_repo\\CSharp-exercises\\Blog_App\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config"
