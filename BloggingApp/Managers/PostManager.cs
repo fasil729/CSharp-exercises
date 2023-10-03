@@ -13,6 +13,7 @@ namespace BloggingApp.Managers
         public PostManager(BloggingContext context)
         {
             _context = context;
+            AppContext.SetSwitch("Npgsql.EnableLegacyTimestampBehavior", true);
         }
 
         public void CreatePost(Post post)

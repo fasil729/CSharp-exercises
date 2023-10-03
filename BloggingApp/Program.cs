@@ -14,6 +14,7 @@ namespace BloggingApp
             {
                 var postManager = new PostManager(context);
                 var commentManager = new CommentManager(context);
+                 
 
                 // Perform CRUD operations and display blog posts and comments
 
@@ -37,7 +38,7 @@ namespace BloggingApp
                     Console.WriteLine($"Content: {retrievedPost.Content}");
                     Console.WriteLine($"Created At: {retrievedPost.CreatedAt}");
                 }
-
+                int post_id = retrievedPost.PostId;
                 // Update the post
                 if(retrievedPost != null)
                 {
@@ -47,16 +48,16 @@ namespace BloggingApp
                 }
 
                 // Delete the post
-                if (retrievedPost != null)
-                {
-                    postManager.DeletePost(retrievedPost.PostId);
-                    Console.WriteLine("Post deleted successfully.");
-                }
+                // if (retrievedPost != null)
+                // {
+                //     postManager.DeletePost(retrievedPost.PostId);
+                //     Console.WriteLine("Post deleted successfully.");
+                // }
 
                 // Create a new comment
                 var comment = new Comment
                 {
-                    PostId = 1, // Assuming there is a post with ID 1
+                    PostId = post_id, // Assuming there is a post with ID 1
                     Text = "Great post!",
                     CreatedAt = DateTime.Now
                 };

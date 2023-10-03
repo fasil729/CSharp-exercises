@@ -13,6 +13,8 @@ namespace BloggingApp.Managers
         public CommentManager(BloggingContext context)
         {
             _context = context;
+            AppContext.SetSwitch("Npgsql.EnableLegacyTimestampBehavior", true);
+
         }
 
         public void CreateComment(Comment comment)
