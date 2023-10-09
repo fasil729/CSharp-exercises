@@ -10,7 +10,7 @@ namespace BloggingApp.Data
 
            protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            string dbpath = "Server=localhost; Port=5432; Database=BloggingAppDb; User Id=postgres; Password=fasika; Include Error Detail=true";
+            string dbpath = "Server=localhost; Port=5432; Database=BloggingAppDb; User Id=postgres; Password=xxxxx"; Include Error Detail=true";
             optionsBuilder.UseNpgsql(dbpath);
         }
     }
